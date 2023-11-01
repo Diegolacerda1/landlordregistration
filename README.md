@@ -1,2 +1,2 @@
-# landlordregistration
-This is an example of how to automate registration functionality using Cypress framework
+# Landlord Registration Functionality
+This is a Cypress test designed to navigate to Landlord's website and create a new user as Owner.
